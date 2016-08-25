@@ -1,0 +1,28 @@
+name: Laur Telliskivi
+favicon: null
+layout_spectrum: 0.18613107572309673
+typography_spectrum: 0.9217975088395178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8067557991016656
+  lightness: 0.9098720944020897
+  saturation: 0.11192348366603255
+  rhythmicContrast: 0.22594326292164624
+purpose: []
